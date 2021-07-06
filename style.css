@@ -1,0 +1,249 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner img{
+left:0;
+bottom:0;
+height: 200px;
+width:100%
+}
+
+h1 {
+font-size: 45px;
+}
+h3{
+    font-size: 20px;
+    }
+p{
+    font-size: 10px; 
+    word-wrap: break-word;
+    margin-bottom: 30px;
+}
+#color_font{
+
+   color: orangered;
+}
+
+.order-button{
+
+    text-decoration: none;
+    font-size: 15px;
+     background-image:linear-gradient(orange,red);
+     border: 10px 10px;
+     border-radius: 2em;
+     color: white;
+     width: 50px 50px;
+     padding: 10px 10px;
+}
+.order-branch{
+    width: 40%;
+ padding-left: 20px;
+
+margin-bottom: 70px;
+margin-left: 30px;}
+
+.order-branch p{
+  font-size: 20px;
+}
+
+.order-branch img{
+    width: 80%;
+  }
+
+.order-section{
+  background-image: url(images/shapes/Group\ 8447.png);
+  
+}
+
+.flexible-content{
+    display: flex;
+    background-image: none;
+    
+}
+
+
+.aboutus-branch img{
+    width: 80%;
+    padding-top: 10%;
+}
+.aboutus-branch{
+    width: 60%;
+ padding-top: 20px;
+ padding-bottom: 20px;
+}
+.contact-button{
+    text-decoration: none;
+   font-size: 15px;
+    background-image:linear-gradient(orange,red);
+    border: 10px 10px;
+    border-radius: 2em;
+    color: white;
+    width: 50px 50px;
+    padding: 10px 10px;
+   ;
+} 
+.aboutus-section{
+
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-bottom: 30px;
+}
+#para-margin-aboutus{
+  font-size: 20px;
+    padding-right: 30px;
+   text-align: justify;
+}
+
+
+.our-recipi{
+    text-align: center;  
+}
+.our-recipi p{
+    font-size: 20px;
+    word-break: normal;
+    padding-left:30%;
+    padding-right: 30%;
+}
+#recipi-margin{
+  text-align: justify;
+}
+            
+          
+#box-size1{
+              
+  width:400px;
+  height: 600px;
+  border-color: white;
+  box-shadow: 5px 10px 5px 10px #DCDCDC;
+  box-sizing: content-box; 
+  border: 7px solid white;
+  border-radius: 2em;
+  margin: 40px 40px 40px 40px;
+    
+  }
+#box-size1 img{    
+  width:350px;
+  height: 400px;
+  border-color: white;
+  border-radius: 2em;
+  margin: 30px 30px 30px 30px;
+  background-image: url(images/food/Project\ Cover.jpg);
+  
+}
+
+#box-size2{
+  margin: 40px 40px 40px 40px;
+  width:400px;
+  height: 620px;
+  border-color: white;
+  box-shadow: 5px 10px 5px 10px #DCDCDC;
+  box-sizing: content-box; 
+  border-radius: 2em;
+    }
+#box-size2 img{    
+  width:350px;
+  height: 400px;
+  border-color: white;
+  border-radius: 2em;
+  margin: 30px 30px 30px 30px;
+
+}
+
+#box-size3{
+  margin: 40px 40px 40px 40px;
+  width:400px;
+  height: 600px;
+  border-color: white;
+  box-shadow: 5px 10px 5px 10px #DCDCDC;
+  box-sizing: content-box; 
+  border: 7px solid white;
+  border-radius: 2em;
+    }
+#box-size3 img{
+width:350px;
+height: 400px;
+border-color: white;
+border-radius: 2em;
+margin: 30px 30px 30px 30px;   
+  }
+#recipi-margin{
+  margin-left: 20px;
+}
+
+.recipi-section{
+
+  margin-bottom: 70px;
+}
+
+.subscriber{
+font-size: 45px;
+font-weight: 15em;
+padding-left: 19%;
+}
+.subscriber-part{
+margin-left: 20px;
+width:95%;
+height: 150px;
+border-color: white;
+box-shadow: 5px 10px 5px 10px #DCDCDC;
+box-sizing: content-box; 
+border: 7px solid white;
+border-radius: 2em;
+margin: 30px 30px;
+padding-top: 20px;
+}
+.sml1{
+font-size: 18px;
+font-weight: 15em;
+padding-left: 19%;
+}
+.sml2{
+font-size: 18px;
+font-weight: 15em;
+
+padding-left: 14%;
+}
+.sml3{
+font-size: 18px;
+font-weight: 15em;
+padding-left: 15%;
+}
+
+
+.footer-branch{
+width: 60%;
+padding-left: 20px;
+margin-bottom: 70px;
+margin-left: 30px;}
+
+.footer-branch img{
+width:50%;
+height: 200px;
+}
+
+.footer-section{    
+left:0;
+bottom:0;
+height: 200px;
+width:100%;
+background-color:black;
+color: cornsilk;
+text-align: center;
+padding-top:30px;
+margin-top: 10%;
+}
+.footer-branch h2{
+text-align: right;
+margin-top: 30px;
+padding-left: 60px;
+}
+
+.footer-branch p{
+font-size: 15px;
+ }
+.payment{
+margin-top: 5px;
+ }
+   
